@@ -8,6 +8,7 @@ Site {
    keywords: 'liquid,money,basic income,bedingungsloses grundeinkommen,grundeinkommen'
    author: 'Adam Art Ananda'
    logo: 'logo.png'
+   language: ''
    publisher: 'GithubPublisher'
-   output: '../docs'
+   output: 'docs'
 }

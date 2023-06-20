@@ -246,10 +246,10 @@ Tiam ni forigos la konekton al la servilo kaj la platformo tute funkcios descent
 
                 Text {
                     text: "&lt;!-- VOKO --&gt;
-<div class=&quot;bs-callout text-center styleBackground&quot;>
-<h3>Ĉu vi volas elŝuti la <strong>APLIKAĴON</strong> por Android kaj komenci kolekti likvon?<a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;>ELŜUTI - SEKVA SEMAJNO</a></h3>
-</div>
-<!-- /VOKO -->"
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /VOKO --&gt;"
                     adminlabel: "Voko"
                 }
             }

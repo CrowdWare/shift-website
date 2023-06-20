@@ -239,10 +239,10 @@ Après avoir atteint 10 000 000 d&#x27;utilisateurs, la création de liquide ser
 
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
-<div class=&quot;bs-callout text-center styleBackground&quot;>
-<h3>Voulez-vous obtenir l'application pour Android et commencer à collecter du liquide ? <a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;>TÉLÉCHARGER - LA SEMAINE PROCHAINE</a></h3>
-</div>
-<!-- /CALLOUT -->"
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;Voulez-vous obtenir l&#x27;application pour Android et commencer à collecter du liquide ? &lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;TÉLÉCHARGER&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
                     adminlabel: "callout"
                 }
             }

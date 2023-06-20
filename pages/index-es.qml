@@ -239,10 +239,10 @@ En ese momento, cortaremos la conexión con el servidor y la plataforma funciona
 
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
-<div class=&quot;bs-callout text-center styleBackground&quot;>
-<h3>¿Quieres obtener la <strong>APP</strong> para Android y comenzar a recolectar líquido?<a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;>DESCARGAR - PRÓXIMA SEMANA</a></h3>
-</div>
-<!-- /CALLOUT -->"
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;¿Quieres obtener la &lt;strong&gt;APP&lt;/strong&gt; para Android y comenzar a recolectar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DESCARGAR&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /CALLOUT --&gt;"
                     adminlabel: "llamada"
                 }
             }

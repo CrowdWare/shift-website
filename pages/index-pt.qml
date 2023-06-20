@@ -233,10 +233,10 @@ Nesse ponto, cortaremos a conexão com o servidor e a plataforma funcionará tot
 
                 Text {
                     text: "&lt;!-- DESTAQUE --&gt;
-<div class=&quot;bs-callout text-center styleBackground&quot;>
-<h3>Você quer obter o <strong>APLICATIVO</strong> para Android e começar a coletar líquido?<a href=&quot;&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;>BAIXAR - PRÓXIMA SEMANA</a></h3>
-</div>
-<!-- /DESTAQUE -->"
+&lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
+&lt;h3&gt;Você quer obter o &lt;strong&gt;APLICATIVO&lt;/strong&gt; para Android e começar a coletar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;BAIXAR&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;!-- /DESTAQUE --&gt;"
                     adminlabel: "Destaque"
                 }
             }
