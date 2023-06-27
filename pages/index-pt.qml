@@ -2,6 +2,7 @@ import FlatSiteBuilder 2.0
 import RevolutionSlider 1.0
 import TextEditor 1.0
 import ImageEditor 1.0
+import MarkdownEditor 1.0
 
 Content {
     title: "Shift"
@@ -181,44 +182,39 @@ Um dos principais benefícios do LMC é a sua imunidade às restrições finance
             Column {
                 span: 8
 
-                Text {
-                    text: "&lt;h3&gt;Primeiro Aplicativo para Android&lt;/h3&gt;
-<p class=&quot;lead&quot;>
-O primeiro aplicativo para Android está quase pronto e será lançado em breve.
-</p>
-<h4>Fase I</h4>
-<p>
-Criamos um aplicativo muito simples que permite coletar um novo líquido.
-Com o aplicativo, você coleta 10.000 ml (10 litros) de LMC todos os dias que inicia o processo no aplicativo.
-Você também pode convidar outras pessoas e coletar 1.500 ml (1,5 litros) de LMC por usuário recomendado por dia.
-Se eles também convidarem seus amigos, você ganha 300 ml extras de LMC por dia e convite.
-E se os amigos deles também participarem, você recebe mais 60 ml para cada um desses amigos.
-Esta é a nossa maneira de espalhar uma boa ideia rapidamente.
-</p>
-<h4>Fase II</h4>
-<p>
-Quando atingirmos 1.000.000 de usuários ou quando encontrarmos pessoas suficientes financiando os custos de desenvolvimento, iremos desenvolver uma função de gratidão no aplicativo.
-Todo usuário poderá mostrar gratidão dando LMC de um aplicativo para outro.
-Então, o usuário poderá dar o líquido que foi criado para outra pessoa.
-A marca de 1.000.000 motivará alguns desenvolvedores a se juntarem, pois eles verão que as pessoas
-desejam esse aplicativo e os desenvolvedores serão remunerados com LMC em vez de dinheiro.
-</p>
+                Markdown {
+                    text: "# Primeiro aplicativo para Android
+## O primeiro aplicativo para Android está pronto e será lançado em breve.
+### Fase I
 
-<h4>Fase III</h4>
-<p>
-Haverá uma função de chat.
-Também haverá um mecanismo de microblogging para que você possa compartilhar coisas e serviços.
-</p>
-<h4>Fase IV</h4>
-<p>
-Haverá a possibilidade de implementar plugins, para que todos nós possamos criar novo conteúdo para uma nova mudança de tempo.
-</p>
-<h4>Fase V</h4>
-<p>
-Após atingir a marca de 10.000.000 de usuários, a criação de líquido será reduzida para 1 litro por dia,
-para que todos os usuários recebam a mesma quantidade por dia.
-Nesse ponto, cortaremos a conexão com o servidor e a plataforma funcionará totalmente descentralizada.
-</p>"
+Nós criamos um aplicativo muito simples que permite que você colete um novo líquido e expresse gratidão.
+Com o aplicativo, você coleta 10.000 ml (10 litros) de LMC todos os dias quando inicia o processo no aplicativo.
+Você também pode convidar outras pessoas e coletar 1.500 ml (1,5 litros) de LMC para cada usuário recomendado por dia.
+Se eles também convidarem seus amigos, você ganha mais 300 ml de LMC por dia e convite.
+E se os amigos deles também participarem, você recebe mais 60 ml para cada um desses amigos.
+Essa é a nossa maneira de espalhar uma boa ideia rapidamente.
+### Fase II
+
+Quando atingirmos 1.000.000 de usuários ou se encontrarmos pessoas suficientes para financiar os custos de desenvolvimento por meio de crowdfunding,
+iremos desenvolver recursos adicionais no aplicativo. Atualmente, estamos trabalhando em uma função de chat que permite enviar mensagens seguras para amigos.
+Essas mensagens são criptografadas de forma assimétrica, o que significa que você precisa trocar suas chaves públicas antecipadamente para que o aplicativo possa criptografar suas mensagens.
+Isso garante que apenas o destinatário possa ler a mensagem.
+Também planejamos incorporar funcionalidades que permitam usar o aplicativo como o Facebook, sem censura, sem anúncios e sem que seus dados sejam
+armazenados em algum servidor para análise e eventualmente serem usados de forma inadequada para publicidade.
+Para isso, já planejamos o uso do Storj.
+No Storj, cada usuário recebe 25 GB de espaço de armazenamento gratuito. Os dados são distribuídos em vários servidores, tornando-os descentralizados,
+criptografados e não publicamente acessíveis ou deletáveis.
+Já utilizamos esse espaço de armazenamento para o envio de mensagens e também podemos usá-lo para recursos semelhantes a blogs, como o Facebook. Cada usuário será responsável por seus próprios dados,
+e apenas amigos e possivelmente amigos diretos, o que será selecionável, poderão acessar esses dados. Você também poderá transformar amigos em &quot;inimigos íntimos&quot; que não poderão mais ler seus dados.
+A marca de 1.000.000 motivará alguns desenvolvedores a participar, pois eles verão que as pessoas aceitam LMC,
+o que motiva os desenvolvedores a criar extensões na forma de plugins.
+### Fase III
+
+Após alcançar 10.000.000 de usuários, a produção de LMC será reduzida para 1 litro por dia.
+Isso garante que todos os usuários recebam a mesma quantidade diariamente.
+Neste ponto, iremos desconectar do servidor e a plataforma será totalmente descentralizada.
+Atualmente, usamos o servidor apenas para a funcionalidade de &quot;indicar um amigo&quot;. Armazenamos apenas informações sobre quem convidou quem. Alguns chamam isso de marketing multinível,
+embora alguém já tenha dito que era um esquema de pirâmide. Eles estão corretos, mas como ninguém precisa pagar por esse sistema de publicidade, ninguém sai prejudicado."
                 }
             }
         }

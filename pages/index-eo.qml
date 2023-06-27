@@ -2,6 +2,7 @@ import FlatSiteBuilder 2.0
 import RevolutionSlider 1.0
 import TextEditor 1.0
 import ImageEditor 1.0
+import MarkdownEditor 1.0
 
 Content {
     title: "Shift"
@@ -190,48 +191,39 @@ dinamikon de interreta interago!
             Column {
                 span: 8
 
-                Text {
-                    text: "&lt;h3&gt;Unua Aplikaĵo por Android&lt;/h3&gt;
-<p class=&quot;lead&quot;>
-La unua aplikaĵo por Android preskaŭ estas preta kaj estos publikigita baldaŭ.
-</p>
-<h4>Fazo I</h4>
-<p>
-Ni kreis tre simplan aplikaĵon, kiu permesas al vi kolekti novan likvon.
-Kun la aplikaĵo, vi kolektas 10.000 ml (10 litroj) da LMC ĉiutage, kiam vi startas la proceson en la aplikaĵo.
-Vi ankaŭ povas inviti aliajn homojn kaj kolekti 1.500 ml (1,5 litroj) da LMC por ĉiu rekomendita uzanto ĉiutage.
-Se ili ankaŭ invitas siajn amikojn, vi gajnas aldonan 300 ml da LMC por ĉiu tago kaj invitado.
-Kaj se la amikoj de ili ankaŭ aliĝas, vi ricevas pluajn 60 ml por ĉiu el tiuj amikoj.
-Tio estas nia maniero disvastigi bonan ideon rapide.
-</p>
-<h4>Fazo II</h4>
-<p>
-Kiam ni atingos 1.000.000 da uzantoj aŭ kiam ni trovos sufiĉe da homoj, kiuj financos la kostojn de la disvolvado, ni disvolvos funkcion de dankemo en la aplikaĵo.
-Ĉiu uzanto tiam povos montri dankemon donante LMC de unu aplikaĵo al la alia.
-Tial la uzanto povas doni la likvon, kiu estis kreita, al iu alia.
-La marko de 1.000.000 incitos iujn disvolvontojn aliĝi, ĉar ili vidos, ke la homoj
-volas tiun aplikaĵon kaj la disvolvontoj ricevos remuneron per LMC anstataŭ moneroj.
-</p>
+                Markdown {
+                    text: "# Unua aplikaĵo por Android
+## La unua aplikaĵo por Android estas preta kaj baldaŭ estos publikigita.
+### Fazo I
 
-<h4>Fazo III</h4>
-<p>
-Estos funkcio de babilejo.
-Ankaŭ estos maŝineto por mikro-blogado, por ke vi povu kunhavigi aferojn kaj servojn.
-</p>
-<h4>Fazo IV</h4>
-<p>
-Estos ebleco implementi kromprogramojn, por ke ni ĉiuj povu krei novan enhavon por nova tempopero.
-</p>
-<h4>Fazo V</h4>
-<p>
-Post atingi 10.000.000 da uzantoj, la kreado de likvo estos malkreskigita al 1 litro ĉi
+Ni kreis tre simplan aplikaĵon, per kiu vi povas kolekti novan likvon kaj montri dankemon.
+Per la aplikaĵo, vi kolektas po 10.000 ml (10 litroj) da LMC ĉiutage, kiam vi startas la proceson en la aplikaĵo.
+Vi ankaŭ povas inviti aliajn homojn kaj kolekti po 1.500 ml (1,5 litroj) da LMC por ĉiu rekomendita uzanto ĉiutage.
+Se ili ankaŭ invitas siajn amikojn, vi gajnas aldona 300 ml da LMC por ĉiu tago kaj invito.
+Kaj se iliaj amikoj ankaŭ aliĝas, vi ricevas aldonan 60 ml por ĉiu el tiuj amikoj.
+Tio estas nia maniero rapide disvastigi bonan ideon.
+### Fazo II
 
-utage,
-tiel ke ĉiuj uzantoj ricevas egalan kvanton ĉiutage.
-Tiam ni forigos la konekton al la servilo kaj la platformo tute funkcios descentraligite.
-</p>
+Post atingi 1.000.000 uzantojn aŭ se ni trovas sufiĉe da homoj financi la evolu-kostojn per monkolekto,
+ni evoluigos aldonajn funkciojn en la aplikaĵo. Nuntempe, ni laboras pri babilejo funkcio, per kiu vi povas sendi sekurajn mesaĝojn al amikoj.
+Tiaj mesaĝoj estas asimetrie ĉifritaj, signifas, ke vi devas antaŭe interŝanĝi viajn publikajn ŝlosilojn por la aplikaĵo povu ĉifri viajn mesaĝojn.
+Tio certigas, ke nur la ricevanto povas legi la mesaĝon.
+Ni ankaŭ planas aldoni funkciojn, per kiuj vi povos uzi la aplikaĵon kiel Facebook, sen cenzuro, sen reklamoj, kaj sen viaj datumoj estus
+konservataj ie sur servilo por analizo kaj poste misuzataj por reklamoj.
+Por tio, ni jam planis uzi Storj-on.
+Per Storj, ĉiu uzanto ricevas 25 GB de senpaga memorospaco. La datumoj estas disigitaj sur pluraj serviloj, kio igas ilin discentraj,
+ĉifritaj, kaj ne publike alireblaj aŭ forigeblaj.
+Ni jam uzas tiun memorospacon por sendado de mesaĝoj kaj ankaŭ povas uzi la spacon por funkcioj simile al blogoj, simile al Facebook. Ĉiu uzanto tiam estas respondeca pri siaj propraj datumoj,
+kaj nur amikoj kaj eble iliaj rektaj amikoj, kio elekteblas, povas aliri tiujn datumojn. Vi ankaŭ povos fari amikojn fariĝi &quot;malamikoj&quot;, kiuj ne plu rajtas legi viajn datumojn.
+La atingiĝo de 1.000.000 estos kialo por iuj programistoj aliĝi, ĉar ili vidos, ke homoj akceptas LMC,
+kio motivas programistojn krei etendajnĉion formo de kromaĵoj.
+### Fazo III
 
-"
+Post atingi 10.000.000 uzantojn, la produktado de LMC estos reduktita al 1 litro ĉiutage.
+Tio certigas, ke ĉiuj uzantoj ricevas la saman kvanton ĉiutage.
+Je tiu punkto, ni malkonektiĝos de la servilo, kaj la platformo estos tute discentrigitaj.
+Nuntempe, ni uzas la servilon nur por la funkcio &quot;rekomendi amikon&quot;. Ni nur konservas informojn pri kiu invitis kiu. Iuj nomas tion multeniva merkatado,
+kvankam iu iam diris, ke ĝi estas piramid-sistemo. Ili efektive pravas, sed ĉar neniu devas pagi por ĉi tiu reklamsistemo, neniu estas damaĝita."
                 }
             }
         }

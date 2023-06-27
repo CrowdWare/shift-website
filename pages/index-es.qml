@@ -2,6 +2,7 @@ import FlatSiteBuilder 2.0
 import RevolutionSlider 1.0
 import TextEditor 1.0
 import ImageEditor 1.0
+import MarkdownEditor 1.0
 
 Content {
     title: "Shift"
@@ -185,46 +186,39 @@ líquido virtual, un símbolo de nuestro agradecimiento mutuo, creado y utilizad
             Column {
                 span: 8
 
-                Text {
-                    text: "&lt;h3&gt;Primera aplicación para Android&lt;/h3&gt;
-<p class=&quot;lead&quot;>
-La primera aplicación para Android está casi lista
+                Markdown {
+                    text: "# Primera aplicación para Android
+## La primera aplicación para Android está lista y se lanzará pronto.
+### Fase I
 
-y se lanzará próximamente.
-</p>
-<h4>Fase I</h4>
-<p>
-Hemos creado una aplicación muy sencilla que te permite recolectar nuevo líquido.
-Con la aplicación, recolectas 10,000 ml (10 l) de LMC cada día que inicias el proceso en la aplicación.
-También puedes invitar a otras personas y recolectar 1,500 ml (1.5 l) de LMC por usuario recomendado por día.
-Si ellos también invitan a sus amigos, ganas 300 ml adicionales de LMC por día e invitación.
-Y si los amigos de tus amigos también se unen, obtienes 60 ml adicionales por cada uno de estos amigos.
+Hemos creado una aplicación muy sencilla que te permite recolectar un nuevo líquido y expresar gratitud.
+Con la aplicación, recolectas 10.000 ml (10 litros) de LMC cada día cuando inicias el proceso en la aplicación.
+También puedes invitar a otras personas y recolectar 1.500 ml (1,5 litros) de LMC por cada usuario recomendado al día.
+Si ellos también invitan a sus amigos, ganas 300 ml adicionales de LMC por día y por cada invitación.
+Y si sus amigos se unen también, recibes 60 ml adicionales por cada uno de esos amigos.
 Esta es nuestra forma de difundir una buena idea rápidamente.
-</p>
-<h4>Fase II</h4>
-<p>
-Cuando alcancemos 1,000,000 de usuarios o cuando encontremos suficientes personas financiando los costos de desarrollo, desarrollaremos una función de gratitud en la aplicación.
-Cada usuario podrá mostrar gratitud al dar LMC de una aplicación a otra.
-Entonces, el usuario podrá dar el líquido que ha sido creado a otra persona.
-La marca de 1,000,000 motivará a algunos desarrolladores a unirse, porque verán que las personas quieren esta aplicación y los desarrolladores serán pagados con LMC en lugar de dinero.
-</p>
+### Fase II
 
-<h4>Fase III</h4>
-<p>
-Habrá una función de chat.
-También habrá un motor de microblogging para que puedas compartir cosas y servicios.
-</p>
-<h4>Fase IV</h4>
-<p>
-Habrá posibilidad de implementar complementos, para que todos podamos crear nuevo contenido para un nuevo cambio de tiempo.
-</p>
-<h4>Fase V</h4>
-<p>
-Después de alcanzar la cantidad de 10,000,000 de usuarios, la creación de líquido se reducirá a 1 litro al día, para que todos los usuarios reciban la misma cantidad diaria.
-En ese momento, cortaremos la conexión con el servidor y la plataforma funcionará completamente de manera descentralizada.
-</p>
+Una vez que alcancemos 1.000.000 de usuarios o si encontramos suficientes personas para financiar los costos de desarrollo a través de crowdfunding,
+desarrollaremos características adicionales en la aplicación. Actualmente, estamos trabajando en una función de chat que te permite enviar mensajes seguros a tus amigos.
+Estos mensajes están cifrados de forma asimétrica, lo que significa que debes intercambiar tus claves públicas con anticipación para que la aplicación pueda cifrar tus mensajes.
+Esto garantiza que solo el destinatario pueda leer el mensaje.
+También planeamos incorporar funcionalidades que te permitan utilizar la aplicación como Facebook, sin censura, sin publicidad y sin que tus datos sean
+almacenados en algún servidor para su análisis y eventual mal uso para publicidad.
+Para esto, ya hemos planeado utilizar Storj.
+En Storj, cada usuario recibe 25 GB de espacio de almacenamiento gratuito. Los datos se distribuyen en varios servidores, lo que los hace descentralizados,
+cifrados y no accesibles ni eliminables públicamente.
+Ya utilizamos este espacio de almacenamiento para el envío de mensajes y también podemos utilizarlo para características similares a blogs, al estilo de Facebook. Cada usuario será responsable de sus propios datos,
+y solo los amigos y posiblemente sus amigos directos, lo cual será seleccionable, podrán acceder a esos datos. También podrás convertir amigos en &quot;enemigos íntimos&quot; que ya no podrán leer tus datos.
+La meta de 1.000.000 motivará a algunos desarrolladores a unirse, ya que verán que las personas aceptan LMC,
+lo cual motiva a los desarrolladores a crear extensiones en forma de complementos.
+### Fase III
 
-"
+Después de alcanzar 10.000.000 de usuarios, la producción de LMC se reducirá a 1 litro por día.
+Esto garantiza que todos los usuarios reciban la misma cantidad diaria.
+En este punto, nos desconectaremos del servidor y la plataforma funcionará completamente de manera descentralizada.
+Actualmente, solo utilizamos el servidor para la función de &quot;recomendar a un amigo&quot;. Solo almacenamos información sobre quién invitó a quién. Algunos lo llaman marketing multinivel,
+aunque alguien ha mencionado que es un esquema de pirámide. En realidad, tienen razón, pero como nadie tiene que pagar por este sistema de publicidad, nadie resulta perjudicado."
                 }
             }
         }

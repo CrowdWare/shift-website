@@ -2,6 +2,7 @@ import FlatSiteBuilder 2.0
 import RevolutionSlider 1.0
 import TextEditor 1.0
 import ImageEditor 1.0
+import MarkdownEditor 1.0
 
 Content {
     title: "Shift"
@@ -190,46 +191,39 @@ Content {
             Column {
                 span: 8
 
-                Text {
-                    text: "&lt;h3&gt;First App for Android&lt;/h3&gt;
-&lt;p class=&quot;lead&quot;&gt;
-	The first app for Android is almost ready and will be released shortly.
-&lt;/p&gt;
-&lt;h4&gt;Phase I&lt;/h4&gt;
-&lt;p&gt;
-	We have created a very simple app that allows you to scoop new fluid.
-	With the app, you scoop 10,000 ml (10 l) of LMC every day you start the process in the app.
-	You can also invite other people and scoop 1,500 ml (1.5l) of LMC per recommended user per day.
-	If they also invite their friends, you earn an additional 300 ml of LMC per day and invitation.
-	And if their friends also join, you get an extra 60 ml for each of these friends.
-	This is our way of spreading a good idea quickly.
-&lt;/p&gt;
-&lt;h4&gt;Phase II&lt;/h4&gt;
-&lt;p&gt;
-	When we reach 1.000.000 users or when we will find enough people crowdfunding the development costs, we are going to develop a gratitude function in the app. 
-	Every user will then be able to show gratitude giving LMC from one app to the other. 
-	So the user is able to give the liquid which has been created to someone else.
-	The mark 1.000.000 will motivate some developers to join in, because they see that the people 
-	want this app and the devlopers will be kind of payed with LMC instead of money.
-&lt;/p&gt;
+                Markdown {
+                    text: "# First App for Android
+## The first app for Android is ready and will be released soon.
+### Phase I
 
-&lt;h4&gt;Phase III&lt;/h4&gt;
-&lt;p&gt;
-	There will be a chat function.
-	There will also be a micro blogging engine, so that you are able to share things and services.
-&lt;/p&gt;
-&lt;h4&gt;Phase IV&lt;/h4&gt;
-&lt;p&gt;
-	There will be the possibility to implement plugins, so that we all are able to create new content for a new time shift.
-&lt;/p&gt;
-&lt;h4&gt;Phase V&lt;/h4&gt;
-&lt;p&gt;
-	After reaching the amount of 10.000.000 users the creation of liquid will be dropped down to 1 liters a day, 
-	so that all users are getting an equal amount per day. 
-	At that point we will cut the connection to the server and the platform will running totally decentral.
-&lt;/p&gt;
+We have created a very simple app that allows you to collect new liquid and express gratitude.
+With the app, you collect 10,000 ml (10 liters) of LMC every day when you start the process in the app.
+You can also invite other people and collect 1,500 ml (1.5 liters) of LMC for each recommended user per day.
+If they also invite their friends, you earn an additional 300 ml of LMC per day and invitation.
+And if their friends join as well, you get an extra 60 ml for each of these friends.
+This is our way of spreading a good idea quickly.
+### Phase II
 
-"
+Once we reach 1,000,000 users or if we find enough people to finance the development costs through crowdfunding,
+we will develop additional features in the app. Currently, we are working on a chat function that allows you to send secure messages to friends.
+These messages are asymmetrically encrypted, which means you need to exchange your public keys beforehand for the app to encrypt your messages.
+This ensures that only the recipient can read the message.
+We also plan to incorporate functionalities that allow you to use the app like Facebook, without censorship, without advertising, and without your data being
+stored somewhere on a server for analysis and eventually misused for advertising.
+For this purpose, we have already planned the use of Storj.
+On Storj, each user receives 25 GB of free storage space. The data is distributed across multiple servers, making it decentralized,
+encrypted, and not publicly accessible or deletable.
+We already use this storage space for sending messages and can also use the space for blog-like features similar to Facebook. Each user is then responsible for their own data,
+and only friends and possibly their direct friends, which will be selectable, can access these data. You will also be able to turn friends into &quot;frenemies&quot; who are no longer allowed to read your data.
+The milestone of 1,000,000 will motivate some developers to join because they see that people accept LMC,
+which motivates developers to create extensions in the form of plugins.
+### Phase III
+
+After reaching 10,000,000 users, the production of LMC will be reduced to 1 liter per day.
+This ensures that all users receive the same amount per day.
+At this point, we will disconnect from the server, and the platform will be fully decentralized.
+Currently, we only use the server for the &quot;referring a friend&quot; feature. We only store information about who invited whom. Some call it multi-level marketing,
+although someone once said it was a pyramid scheme. They are actually correct, but since nobody has to pay for this advertising system, nobody gets harmed."
                 }
             }
         }

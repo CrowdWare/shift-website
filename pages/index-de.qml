@@ -1,6 +1,7 @@
 import FlatSiteBuilder 2.0
 import RevolutionSlider 1.0
 import TextEditor 1.0
+import MarkdownEditor 1.0
 import ImageEditor 1.0
 
 Content {
@@ -122,21 +123,18 @@ Content {
             Column {
                 span: 12
 
-                Text {
-                    text: "&lt;p class=&quot;lead&quot;&gt;
-Die Hauptidee hinter Shift besteht darin, eine neue Form des Wertaustauschs zu etablieren, der eine einzigartige virtuelle 
-Flüssigkeit verwendet, die von Menschen geschöpft wird. Diese virtuelle Flüssigkeit, bekannt als Liquid Micro Coins (LMC), 
-revolutioniert die Art und Weise, wie wir interagieren, teilen und Dienstleistungen in unserem Netzwerk anbieten. 
+                Markdown {
+                    text: "### Die Hauptidee hinter Shift besteht darin, eine neue Form des Wertaustauschs zu etablieren.  
+Für diesen Wertaustauschs wird eine einzigartige virtuelle Flüssigkeit verwendet, die von Menschen geschöpft wird. 
+Diese virtuelle Flüssigkeit, bekannt als Liquid Micro Coins (LMC), revolutioniert die Art und Weise, wie wir interagieren, teilen und Dienstleistungen in unserem Netzwerk anbieten. 
 Mit LMC können wir mühelos Dankbarkeit ausdrücken, für Dienstleistungen bezahlen und zur Gemeinschaft beitragen.
-&lt;/p&gt;
-&lt;h3&gt;Ziel&lt;/h3&gt;
-&lt;p class=&quot;lead&quot;&gt;
-Einer der bedeutenden Vorteile von LMC ist seine Immunität gegenüber traditionellen finanziellen Beschränkungen. 
-Es ist nicht Geld per se, sondern eine neue Form von Wert, die vor Besteuerung geschützt ist. 
-Es handelt sich um eine virtuelle Flüssigkeit, ein Symbol unserer gegenseitigen Wertschätzung, das von der Gemeinschaft 
-erstellt und verwendet wird. Schließen Sie sich uns an, um ein gerechteres und freies soziales Netzwerk zu schaffen, 
-das Beitrag und Teilnahme schätzt. Mit Shift ändern wir gemeinsam die Dynamik der Online-Interaktion!
-&lt;/p&gt;"
+
+## Ziel
+Einer der bedeutenden Vorteile von LMC ist seine Immunität gegenüber traditionellen finanziellen Beschränkungen.
+Es ist nicht Geld per se, sondern eine neue Form von Wert, die vor Besteuerung geschützt ist.
+Es handelt sich um eine virtuelle Flüssigkeit, ein Symbol unserer gegenseitigen Wertschätzung, das von der Gemeinschaft
+erstellt und verwendet wird. Schließen Sie sich uns an, um ein gerechteres und freies soziales Netzwerk zu schaffen,
+das Beitrag und Teilnahme schätzt. Mit Shift ändern wir gemeinsam die Dynamik der Online-Interaktion!"
                 }
             }
         }
@@ -190,46 +188,42 @@ das Beitrag und Teilnahme schätzt. Mit Shift ändern wir gemeinsam die Dynamik 
             Column {
                 span: 8
 
-                Text {
-                    text: "&lt;h3&gt;First App for Android&lt;/h3&gt;
-&lt;p class=&quot;lead&quot;&gt;
-	Die erste App für Android ist fertig und wird in Kürze veröffentlicht.
-&lt;/p&gt;
-&lt;h4&gt;Phase I&lt;/h4&gt;
-&lt;p&gt;
-	Wir haben eine sehr einfache App erstellt, mit der du neue Flüssigkeit schöpfen kannst.
-	Mit der App schöpfst du jeden Tag, an dem du den Prozess in der App startest, 10.000 ml (10 l) LMC.
-	Du kannst auch andere Leute einladen und für jeden empfohlenen Benutzer pro Tag 1.500 ml (1.5l) LMC schöpfen.
-	Sollte dieser dann auch seine Freunde einladen, verdienst du daran pro Tag und Einladung 300 ml LMC dazu.  
-	Und wenn deren Freunde auch mitmachen, dann bekommst du für jeden diese Freunde nochmal 60 ml dazu.  
-	Das ist unser Weg, eine gute Idee schnell zu verbreiten.
-&lt;/p&gt;
-&lt;h4&gt;Phase II&lt;/h4&gt;
-&lt;p&gt;
-	Wenn wir 1.000.000 Benutzer erreichen oder wenn wir genug Leute finden, die die Entwicklungskosten über Crowdfunding finanzieren, 
-	werden wir eine Dankbarkeitsfunktion in der App entwickeln.
-	Jeder Benutzer kann sich dann dafür bedanken, indem er LMC von einer App zur anderen überträgt.
-	So kann der Benutzer die erstellte Flüssigkeit an eine andere Person weitergeben.
-	Die Marke 1.000.000 wird einige Entwickler motivieren, mitzumachen, weil sie sehen, dass die Leute LMC akzeptieren
-	und das motiviert die Entwickler und sie werden für LMC statt für Geld mitmachen.
-&lt;/p&gt;
+                Markdown {
+                    text: "# Erste App für Android
+## Die erste App für Android ist fertig und wird in Kürze veröffentlicht.
+### Phase I
+Wir haben eine sehr einfache App erstellt, mit der du neue Flüssigkeit schöpfen und auch Dankbarkeit zeigen kannst.
+Mit der App schöpfst du jeden Tag, an dem du den Prozess in der App startest, 10.000 ml (10 l) LMC.
+Du kannst auch andere Leute einladen und für jeden empfohlenen Benutzer pro Tag 1.500 ml (1.5l) LMC schöpfen.
+Sollte dieser dann auch seine Freunde einladen, verdienst du daran pro Tag und Einladung 300 ml LMC dazu.  
+Und wenn deren Freunde auch mitmachen, dann bekommst du für jeden diese Freunde nochmal 60 ml dazu.  
+Das ist unser Weg, eine gute Idee schnell zu verbreiten.
 
-&lt;h4&gt;Phase III&lt;/h4&gt;
-&lt;p&gt;
-	Es wird eventuell eine Chat-Funktion geben.
-	Es wird eventuell auch eine Mikro-Blogging-Engine geben, mit der du Dinge und Dienste anbieten kannst.
-&lt;/p&gt;
-&lt;h4&gt;Phase IV&lt;/h4&gt;
-&lt;p&gt;
-	Es wird höchstwahrscheinlich auch eine Möglichkeit geben, Plugins zu implementieren, damit wir alle neue Inhalte für eine neue Zeit im Wandel erstellen können.
-&lt;/p&gt;
-&lt;h4&gt;Phase V&lt;/h4&gt;
-&lt;p&gt;
-	Nach Erreichen der Menge von 10.000.000 Benutzern wird die Erzeugung von LMC auf 1 Liter pro Tag reduziert.
-	Damit erhalten alle Benutzer den gleichen Betrag pro Tag.
-	An diesem Punkt werden wir die Verbindung zum Server trennen und die Plattform wird vollständig dezentral ausgeführt.
-&lt;/p&gt;
+### Phase II
+Wenn wir 1.000.000 Benutzer erreichen oder wenn wir genug Leute finden, die die Entwicklungskosten über Crowdfunding finanzieren, 
+werden wir weitere Funktionen in der App entwickeln. Derzeit arbeiten wir an einer Chat-Funktion, mit der du sicher Nachrichten zu Freunden senden kannst. 
+Diese Nachrichten werden asymetrisch verschlüsselt, das bedeutet, das ihr vorher eure öffentlichen Schlüssel austauschen müsst, mit denen die App eure Nachrichten verschlüsselt.
+Das heißt, das nur der Empfänger die Nachricht lesen kann.
+Auch ist geplant, das wir Funktionalitäten einbauen, um die App wie Facebook nutzen zu können, ohne Zensur, ohne Werbung und ohne das eure Daten irgendwo auf einem Server 
+landen und für Auswertungen und schliesslich Werbung missbraucht werden. 
+Vorbereitend haben wir hierfür bereits den Einsatz von Storj vorgesehen.  
+Auf Storj bekommt jeder Nutzer 25 GB an freiem Speicherplatz kostenlos zur Verfügung. Die Daten werden auf viele verschiedene Server aufgeteilt, sind also dezentral, 
+verschlüsselt und nicht öffentlich verfügbar oder löschbar.  
+Wir nutzen diesen Speicherplatz bereist für das versenden von Nachrichten und können den Platz dann auch für Blogs a la Facebook nutzen. Jeder Nutzer ist dann für seine Daten
+selbst verantwortlich. Zugreifen auf diese Daten dürfen nur Freunde und eventuell deren direkte Freunde, was auswählbar sein wird. Du wirst auch Freunde zu Frenemies machen 
+können, die dann keine Daten mehr lesen dürfen.
+Die Marke 1.000.000 wird einige Entwickler motivieren, mitzumachen, weil sie sehen, dass die Leute LMC akzeptieren
+und das motiviert die Entwickler Erweiterungen in Form von Plugins zu erstellen.
 
+
+### Phase III
+
+Nach Erreichen der Menge von 10.000.000 Benutzern wird die Erzeugung von LMC auf 1 Liter pro Tag reduziert.
+Damit erhalten alle Benutzer den gleichen Betrag pro Tag.
+An diesem Punkt werden wir die Verbindung zum Server trennen und die Plattform wird vollständig dezentral ausgeführt.
+Zurzeit nutzen wir den Server nur für die &quot;Ich werbe einen Freund&quot; Sache. Dort speichern wir lediglich, wer wen eingeladen hat. Man nennt das auch Multi-Level-Marketing, 
+obwohl auch schon mal jemand gemeint hat, es wäre ein Schnellball-System. Er hat ja eigentlich auch Recht, aber da bei uns niemand für dieses System der Werbung Geld
+bezahlen muss kommt auch niemand zu Schaden.
 "
                 }
             }
