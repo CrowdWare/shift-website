@@ -311,6 +311,10 @@ bezahlen muss kommt auch niemand zu Schaden.
 		Dann finden wir auch Entwickler, die wir mit LMC auszahlen können.
 		Eine andere Möglichkeit wird sein, dass wir Sponsoren finden, um die Entwicklungskosten zu finanzieren.
 	&lt;/li&gt;
+	&lt;li&gt;
+		Ist Shift Open Source?&lt;/br&gt;
+		Ja, du findest unser Repository auf &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/CrowdWare/shift&quot;&gt;Github&lt;/a&gt;.
+	&lt;/li&gt;
 &lt;/ul&gt;"
                     adminlabel: "FAQ"
                 }

@@ -248,50 +248,54 @@ embora alguém já tenha dito que era um esquema de pirâmide. Eles estão corre
 
                 Text {
                     text: "&lt;h3&gt;Sobre o líquido&lt;/h3&gt;
-<p>
-Quando falamos sobre salários e dinheiro, também falamos sobre liquidez. Então, quando você tem dinheiro suficiente, você está líquido.</br>
-Na verdade, não queremos mais usar dinheiro, porque no antigo sistema como conhecíamos antes de 2020, algumas pessoas abusavam do dinheiro para acumulá-lo. Com essa ação, elas interrompiam o fluxo livre de energia. Então, elas criavam um bloqueio para manter muito dinheiro para si mesmas. Todas as outras pessoas ficavam sem recursos e tinham que sofrer.</br></br>
+&lt;p&gt;
+Quando falamos sobre salários e dinheiro, também falamos sobre liquidez. Então, quando você tem dinheiro suficiente, você está líquido.&lt;/br&gt;
+Na verdade, não queremos mais usar dinheiro, porque no antigo sistema como conhecíamos antes de 2020, algumas pessoas abusavam do dinheiro para acumulá-lo. Com essa ação, elas interrompiam o fluxo livre de energia. Então, elas criavam um bloqueio para manter muito dinheiro para si mesmas. Todas as outras pessoas ficavam sem recursos e tinham que sofrer.&lt;/br&gt;&lt;/br&gt;
 
-Com o LMC, todos os seres humanos serão iguais. Em primeiro lugar, devemos pensar em gratidão por cada hora. Então, quando fazemos algo por uma hora para outra pessoa, essa pessoa pode mostrar gratidão dando 60 litros de LMC.</br> Ou seja, um litro por minuto.
-Portanto, um desenvolvedor de software na Noruega receberá 60 litros de LMC a cada hora, assim como um cabeleireiro na Índia.</br>
+Com o LMC, todos os seres humanos serão iguais. Em primeiro lugar, devemos pensar em gratidão por cada hora. Então, quando fazemos algo por uma hora para outra pessoa, essa pessoa pode mostrar gratidão dando 60 litros de LMC.&lt;/br&gt; Ou seja, um litro por minuto.
+Portanto, um desenvolvedor de software na Noruega receberá 60 litros de LMC a cada hora, assim como um cabeleireiro na Índia.&lt;/br&gt;
 Apenas justo, não é mesmo?
-</p>
-<h3>Inflação/Deflação</h3>
-<p>
+&lt;/p&gt;
+&lt;h3&gt;Inflação/Deflação&lt;/h3&gt;
+&lt;p&gt;
 Para não inundarmos o planeta, o líquido evaporará diariamente uma pequena porcentagem até desaparecer completamente após 7 anos. Assim, ele será criado, usado e destruído em um ciclo completo.
-</p>
-<h3>Segurança / Integridade</h3>
-<p>
+&lt;/p&gt;
+&lt;h3&gt;Segurança / Integridade&lt;/h3&gt;
+&lt;p&gt;
 O banco de dados local foi criptografado.
 Portanto, isso torna impossível que alguém altere quaisquer dados no banco de dados local.
 O mesmo é verdade para o saldo.
 Quando estamos transferindo LMC entre dois telefones celulares, os dados também serão criptografados.
-Portanto, esses dados de transferência só podem ser decifrados com o aplicativo original.</br></br>
+Portanto, esses dados de transferência só podem ser decifrados com o aplicativo original.&lt;/br&gt;&lt;/br&gt;
 Se você transferir uma quantidade de LMC para um aplicativo móvel falso, não importa. A pessoa com o aplicativo móvel falso não lhe dirá que a transferência foi interrompida.&lt;/br&gt;&lt;/br&gt;
 
 Se alguém quiser transferir LMC para sua conta, seu aplicativo não aceitará essa transferência devido 
 a dados decifrados incorretos.
-</p>
+&lt;/p&gt;
 
-<h3>FAQ</h3>
-<ul>
-<li>
-Parece estranho coletar líquido?</br>
+&lt;h3&gt;FAQ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Parece estranho coletar líquido?&lt;/br&gt;
 Não podemos chamar de dinheiro. Quando você cria dinheiro, você teria que pagar impostos ;-)
-</li>
-<li>
-Haverá uma versão para iPhone? </br>
+&lt;/li&gt;
+&lt;li&gt;
+Haverá uma versão para iPhone? &lt;/br&gt;
 Sim, quando tivermos acesso a um iPhone para testá-lo. (acredite ou não, estamos com um orçamento muito baixo)
-</li>
-<
+&lt;/li&gt;
+&lt;
 
-li>
-Quando você entrará na fase II?</br>
+li&gt;
+Quando você entrará na fase II?&lt;/br&gt;
 Iremos para a fase II após alcançarmos 1.000.000 de pessoas usando o aplicativo. Então, haverá uma massa crítica
 que aceitará o LMC como troca de energia. Então também encontraremos desenvolvedores que possamos pagar com LMC.
 Outra possibilidade é encontrarmos patrocinadores para financiar os custos de desenvolvimento.
-</li>
-</ul>"
+&lt;/li&gt;
+&lt;li&gt;
+		Shift é de código aberto?&lt;/br&gt;
+		Sim, você encontrará nosso repositório no &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/CrowdWare/shift&quot;&gt;Github&lt;/a&gt;.
+	&lt;/li&gt;
+&lt;/ul&gt;"
                     adminlabel: "FAQ"
                 }
             }

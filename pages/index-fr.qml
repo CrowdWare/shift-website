@@ -253,49 +253,53 @@ bien que certains aient déjà dit que c&#x27;était un système pyramidal. Ils 
 
                 Text {
                     text: "&lt;h3&gt;À propos du liquide&lt;/h3&gt;
-<p>
-Quand nous parlons de salaires et d'argent, nous parlons également de liquidité. Donc lorsque vous avez assez d'argent, vous êtes liquide.</br>
-En fait, nous ne voulons plus utiliser d'argent, car dans l'ancien système tel que nous le connaissions avant 2020, certaines personnes ont abusé de l'argent pour l'accumuler. Par cette action, elles ont bloqué le flux libre d'énergie. Ainsi, elles ont créé un blocage pour garder beaucoup d'argent pour elles-mêmes. Toutes les autres personnes se sont retrouvées sans ressources et ont dû souffrir.</br></br>
+&lt;p&gt;
+Quand nous parlons de salaires et d&#x27;argent, nous parlons également de liquidité. Donc lorsque vous avez assez d&#x27;argent, vous êtes liquide.&lt;/br&gt;
+En fait, nous ne voulons plus utiliser d&#x27;argent, car dans l&#x27;ancien système tel que nous le connaissions avant 2020, certaines personnes ont abusé de l&#x27;argent pour l&#x27;accumuler. Par cette action, elles ont bloqué le flux libre d&#x27;énergie. Ainsi, elles ont créé un blocage pour garder beaucoup d&#x27;argent pour elles-mêmes. Toutes les autres personnes se sont retrouvées sans ressources et ont dû souffrir.&lt;/br&gt;&lt;/br&gt;
 
-Avec LMC, tous les êtres humains seront égaux. Tout d'abord, nous devons penser à la gratitude pour chaque heure. Ainsi, lorsque nous faisons quelque chose pendant une heure pour quelqu'un d'autre, cette personne peut montrer sa gratitude en donnant 60 litres de LMC.</br> Soit un litre par minute.
-Ainsi, un développeur de logiciels en Norvège recevra 60 litres de LMC chaque heure, tout comme un coiffeur en Inde.</br>
-Juste équitable, n'est-ce pas ?
-</p>
-<h3>Inflation/Déflation</h3>
-<p>
-Afin de ne pas inonder la planète, le liquide s'évapore chaque jour d'un petit pourcentage jusqu'à ce qu'il disparaisse complètement après 7 ans. Ainsi, il est créé, utilisé et détruit dans un cycle complet.
-</p>
-<h3>Sécurité / Intégrité</h3>
-<p>
+Avec LMC, tous les êtres humains seront égaux. Tout d&#x27;abord, nous devons penser à la gratitude pour chaque heure. Ainsi, lorsque nous faisons quelque chose pendant une heure pour quelqu&#x27;un d&#x27;autre, cette personne peut montrer sa gratitude en donnant 60 litres de LMC.&lt;/br&gt; Soit un litre par minute.
+Ainsi, un développeur de logiciels en Norvège recevra 60 litres de LMC chaque heure, tout comme un coiffeur en Inde.&lt;/br&gt;
+Juste équitable, n&#x27;est-ce pas ?
+&lt;/p&gt;
+&lt;h3&gt;Inflation/Déflation&lt;/h3&gt;
+&lt;p&gt;
+Afin de ne pas inonder la planète, le liquide s&#x27;évapore chaque jour d&#x27;un petit pourcentage jusqu&#x27;à ce qu&#x27;il disparaisse complètement après 7 ans. Ainsi, il est créé, utilisé et détruit dans un cycle complet.
+&lt;/p&gt;
+&lt;h3&gt;Sécurité / Intégrité&lt;/h3&gt;
+&lt;p&gt;
 La base de données locale a été cryptée.
-Il est donc impossible pour quelqu'un de modifier des données dans la base de données locale.
+Il est donc impossible pour quelqu&#x27;un de modifier des données dans la base de données locale.
 Cela vaut bien sûr aussi pour le solde.
 Lorsque nous transférons du LMC entre deux téléphones mobiles, les données sont également cryptées.
-Ainsi, ces données de transfert ne peuvent être déchiffrées qu'avec l'application d'origine.</br></br>
-Si vous transférez une quantité de LMC vers une application mobile falsifiée, cela n'a pas d'importance. Le propriétaire de l'application falsifiée ne vous dira pas que le transfert a été interrompu.&lt;/br&gt;&lt;/br&gt;
+Ainsi, ces données de transfert ne peuvent être déchiffrées qu&#x27;avec l&#x27;application d&#x27;origine.&lt;/br&gt;&lt;/br&gt;
+Si vous transférez une quantité de LMC vers une application mobile falsifiée, cela n&#x27;a pas d&#x27;importance. Le propriétaire de l&#x27;application falsifiée ne vous dira pas que le transfert a été interrompu.&lt;/br&gt;&lt;/br&gt;
 
-Si quelqu'un souhaite transférer du LMC sur votre compte, votre application n'acceptera pas ce transfert en raison de données déchiffrées incorrectes.
-</p>
+Si quelqu&#x27;un souhaite transférer du LMC sur votre compte, votre application n&#x27;acceptera pas ce transfert en raison de données déchiffrées incorrectes.
+&lt;/p&gt;
 
-<h3>FAQ</h3>
-<ul>
-<li>
-Cela semble étrange de collecter du liquide ?</br>
-Nous ne pouvons pas appeler ça de l'argent. Lorsque vous créez de l'argent, vous seriez obligé de payer des impôts ;-)
-</li>
-<li>
+&lt;h3&gt;FAQ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Cela semble étrange de collecter du liquide ?&lt;/br&gt;
+Nous ne pouvons pas appeler ça de l&#x27;argent. Lorsque vous créez de l&#x27;argent, vous seriez obligé de payer des impôts ;-)
+&lt;/li&gt;
+&lt;li&gt;
 Y aura
 
--t-il une version pour iPhone ? </br>
+-t-il une version pour iPhone ? &lt;/br&gt;
 Oui, lorsque nous aurons un iPhone pour le tester. (croyez-le ou non, nous avons un budget très limité)
-</li>
-<li>
-Quand passerez-vous à la phase II ?</br>
-Nous passerons à la phase II après avoir atteint 1 000 000 de personnes utilisant l'application. À ce moment-là, il y aura une masse critique
-qui acceptera le LMC comme moyen d'échange d'énergie. Nous trouverons également des développeurs que nous pourrons rémunérer en LMC.
+&lt;/li&gt;
+&lt;li&gt;
+Quand passerez-vous à la phase II ?&lt;/br&gt;
+Nous passerons à la phase II après avoir atteint 1 000 000 de personnes utilisant l&#x27;application. À ce moment-là, il y aura une masse critique
+qui acceptera le LMC comme moyen d&#x27;échange d&#x27;énergie. Nous trouverons également des développeurs que nous pourrons rémunérer en LMC.
 Une autre possibilité serait de trouver des sponsors pour financer les coûts de développement.
-</li>
-</ul>"
+&lt;/li&gt;
+&lt;li&gt;
+		Shift est-il open source ?&lt;/br&gt;
+		Oui, vous trouverez notre dépôt sur &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/CrowdWare/shift&quot;&gt;Github&lt;/a&gt;.
+	&lt;/li&gt;
+&lt;/ul&gt;"
                     adminlabel: "FAQ"
                 }
             }

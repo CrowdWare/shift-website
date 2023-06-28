@@ -298,8 +298,12 @@ So this tranfser data can only be decrypted with the original app.&lt;/br&gt;&lt
 	&lt;li&gt;
 		When will you go into phase II?&lt;/br&gt;
 		We will go into phase II after reaching 1.000.000 people using the app. Then there will be a critical mass
-		who will accept LMC as an energy exchange. Then we also will find developers who we can pay out with LMC.
+		who will accept LMC as an energy exchange. Then we also will find developers who we can be paid out with LMC.
 		Another possibilty will be that we find sponsors to finance the development costs.
+	&lt;/li&gt;
+	&lt;li&gt;
+		Is Shift Open Source?&lt;/br&gt;
+		Yes, you will find our repository on &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/CrowdWare/shift&quot;&gt;Github&lt;/a&gt;.
 	&lt;/li&gt;
 &lt;/ul&gt;"
                     adminlabel: "FAQ"

@@ -257,49 +257,53 @@ kvankam iu iam diris, ke ĝi estas piramid-sistemo. Ili efektive pravas, sed ĉa
 
                 Text {
                     text: "&lt;h3&gt;Pri la likvo&lt;/h3&gt;
-<p>
-Kiam ni parolas pri salajroj kaj mono, ni ankaŭ parolas pri likvido. Do, kiam vi havas sufiĉe da mono, vi estas likvida.</br>
-Fakte, ni ne plu volas uzi monon, ĉar en la malnova sistemo, kiel ni ĝin konis antaŭ 2020, iuj homoj misuzis monon por akumuli ĝin. Per tiu ago, ili interrompis la liberen fluantan energion. Ili kreis barilon por teni multe da mono por si mem. Ĉiuj aliaj homoj elsuferis kaj devis suferi.</br></br>
+&lt;p&gt;
+Kiam ni parolas pri salajroj kaj mono, ni ankaŭ parolas pri likvido. Do, kiam vi havas sufiĉe da mono, vi estas likvida.&lt;/br&gt;
+Fakte, ni ne plu volas uzi monon, ĉar en la malnova sistemo, kiel ni ĝin konis antaŭ 2020, iuj homoj misuzis monon por akumuli ĝin. Per tiu ago, ili interrompis la liberen fluantan energion. Ili kreis barilon por teni multe da mono por si mem. Ĉiuj aliaj homoj elsuferis kaj devis suferi.&lt;/br&gt;&lt;/br&gt;
 
-Kun LMC, ĉiuj homoj estos egalaj. Unue, ni devas pensi pri dankemo por ĉiu horo. Do, kiam ni faras ion dum unu horo por iu alia, tiu alia povas montri dankemon donante 60 litrojn da LMC.</br> Tio estas unu litro por minuto.
-Do, programisto en Norvegio ricevos 60 litrojn da LMC ĉiuhore, same kiel frizisto en Barato.</br>
+Kun LMC, ĉiuj homoj estos egalaj. Unue, ni devas pensi pri dankemo por ĉiu horo. Do, kiam ni faras ion dum unu horo por iu alia, tiu alia povas montri dankemon donante 60 litrojn da LMC.&lt;/br&gt; Tio estas unu litro por minuto.
+Do, programisto en Norvegio ricevos 60 litrojn da LMC ĉiuhore, same kiel frizisto en Barato.&lt;/br&gt;
 Ĉi tio estas ĝuste, ĉu ne?
-</p>
-<h3>Inflacio/Deflacio</h3>
-<p>
+&lt;/p&gt;
+&lt;h3&gt;Inflacio/Deflacio&lt;/h3&gt;
+&lt;p&gt;
 Tiel ke ni ne superakvezi la planedon, la likvo disvaporas ĉiutage per malgranda procento ĝis ĝi tute malaperas post 7 jaroj. Tiel ĝi estas kreita, uzata, kaj detruata en plena cirklo.
-</p>
-<h3>Sekureco / Integreco</h3>
-<p>
+&lt;/p&gt;
+&lt;h3&gt;Sekureco / Integreco&lt;/h3&gt;
+&lt;p&gt;
 La loka datumbazo estas ĉifrita.
 Tial estas neeble por iu ŝanĝi
 
 ajnan daton en la loka datumbazo.
 Tio ankaŭ validas pri la saldo.
 Kiam ni transferas LMC inter du poŝtelefonoj, ankaŭ la datumoj estas ĉifritaj.
-Tial la transferaj datumoj povas esti deĉifritaj nur per la originala aplikaĵo.</br></br>Se vi transferas sumon de LMC al falsa poŝtelefono, tio ne gravas. La persono kun la falsa poŝtelefono ne diros al vi, ke la transferto estis abortita.&lt;/br&gt;&lt;/br&gt;
+Tial la transferaj datumoj povas esti deĉifritaj nur per la originala aplikaĵo.&lt;/br&gt;&lt;/br&gt;Se vi transferas sumon de LMC al falsa poŝtelefono, tio ne gravas. La persono kun la falsa poŝtelefono ne diros al vi, ke la transferto estis abortita.&lt;/br&gt;&lt;/br&gt;
 
 Se iu volas transferi LMC al via konto, via aplikaĵo ne akceptos tiun transakcion pro 
 maldekstre ĉifritaj datoj.
-</p>
+&lt;/p&gt;
 
-<h3>FAQ</h3>
-<ul>
-<li>
-Sonas stranga kolekti likvon?</br>
+&lt;h3&gt;FAQ&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+Sonas stranga kolekti likvon?&lt;/br&gt;
 Ni ne povas nomi ĝin mono. Kiam vi kreus monon, vi devus pagi impostojn ;-)
-</li>
-<li>
-Ĉu estos versio por iPhone? </br>
+&lt;/li&gt;
+&lt;li&gt;
+Ĉu estos versio por iPhone? &lt;/br&gt;
 Jes, kiam ni havos aliron al iPhono por testi ĝin. (kredu aŭ ne, ni havas tre malgrandan buĝeton)
-</li>
-<li>
-Kiam vi iros en fazo II?</br>
+&lt;/li&gt;
+&lt;li&gt;
+Kiam vi iros en fazo II?&lt;/br&gt;
 Ni iros en fazon II post atingi 1.000.000 da homoj uzantaj la aplikaĵon. Tiam estos kritika maso
 kiu akceptos LMC kiel energiinterŝanĝo. Tiam ni ankaŭ trovos disvolvontojn, kiujn ni povas remuneri per LMC.
 Alia ebleco estos trovi sponsorojn por financi la kostojn de disvolvado.
-</li>
-</ul>"
+&lt;/li&gt;
+&lt;li&gt;
+		Ĉu Shift estas malferma fonto?&lt;/br&gt;
+		Jes, vi trovos nian deponejon ĉe &lt;a target=&quot;_blank&quot; href=&quot;https://github.com/CrowdWare/shift&quot;&gt;Github&lt;/a&gt;.
+	&lt;/li&gt;
+&lt;/ul&gt;"
                     adminlabel: "FAQ"
                 }
             }
