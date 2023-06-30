@@ -230,7 +230,7 @@ embora alguém já tenha dito que era um esquema de pirâmide. Eles estão corre
                 Text {
                     text: "&lt;!-- DESTAQUE --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Você quer obter o &lt;strong&gt;APLICATIVO&lt;/strong&gt; para Android e começar a coletar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;BAIXAR&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Você quer obter o &lt;strong&gt;APLICATIVO&lt;/strong&gt; para Android e começar a coletar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.46/shift-release-1.2.46.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;BAIXAR&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /DESTAQUE --&gt;"
                     adminlabel: "Destaque"

@@ -234,7 +234,7 @@ aunque alguien ha mencionado que es un esquema de pirámide. En realidad, tienen
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;¿Quieres obtener la &lt;strong&gt;APP&lt;/strong&gt; para Android y comenzar a recolectar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.32/shift-release-1.2.32.Alpha.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DESCARGAR&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;¿Quieres obtener la &lt;strong&gt;APP&lt;/strong&gt; para Android y comenzar a recolectar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.46/shift-release-1.2.46.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DESCARGAR&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "llamada"
