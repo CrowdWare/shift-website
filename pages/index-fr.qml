@@ -235,7 +235,7 @@ bien que certains aient déjà dit que c&#x27;était un système pyramidal. Ils 
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Voulez-vous obtenir l&#x27;application pour Android et commencer à collecter du liquide ? &lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.46/shift-release-1.2.46.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;TÉLÉCHARGER&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Voulez-vous obtenir l&#x27;application pour Android et commencer à collecter du liquide ? &lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;TÉLÉCHARGER&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "callout"

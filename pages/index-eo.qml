@@ -239,7 +239,7 @@ kvankam iu iam diris, ke ĝi estas piramid-sistemo. Ili efektive pravas, sed ĉa
                 Text {
                     text: "&lt;!-- VOKO --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.46/shift-release-1.2.46.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /VOKO --&gt;"
                     adminlabel: "Voko"

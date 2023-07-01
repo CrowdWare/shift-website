@@ -240,7 +240,7 @@ bezahlen muss kommt auch niemand zu Schaden.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.46/shift-release-1.2.46.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;
 
