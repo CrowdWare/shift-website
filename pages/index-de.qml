@@ -321,4 +321,40 @@ bezahlen muss kommt auch niemand zu Schaden.
             }
         }
     }
+
+    Section {
+
+        Row {
+
+            Column {
+                span: 12
+
+                Text {
+                    text: "&lt;p&gt;&lt;/p&gt;
+&lt;h3&gt;Hier ist ein kurzes Video Tuturial&lt;/h3&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
+src=&quot;https://link.storjshare.io/s/jwqcnkcqajwehmwkzqxbpx62364a/shift/videos/ShiftTutorialGerman.mp4?wrap=0&quot;&gt;
+&lt;/video&gt;
+
+&lt;style&gt;
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* Assuming 16:9 aspect ratio */
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+&lt;/style&gt;"
+                    adminlabel: "Video"
+                }
+            }
+        }
+    }
 }
