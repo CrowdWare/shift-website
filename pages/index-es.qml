@@ -188,37 +188,26 @@ líquido virtual, un símbolo de nuestro agradecimiento mutuo, creado y utilizad
 
                 Markdown {
                     text: "# Primera aplicación para Android
-## La primera aplicación para Android está lista y se lanzará pronto.
-### Fase I
+## La primera aplicación para Android está lista y ha sido lanzada hoy.  
 
-Hemos creado una aplicación muy sencilla que te permite recolectar un nuevo líquido y expresar gratitud.
-Con la aplicación, recolectas 10.000 ml (10 litros) de LMC cada día cuando inicias el proceso en la aplicación.
-También puedes invitar a otras personas y recolectar 1.500 ml (1,5 litros) de LMC por cada usuario recomendado al día.
-Si ellos también invitan a sus amigos, ganas 300 ml adicionales de LMC por día y por cada invitación.
-Y si sus amigos se unen también, recibes 60 ml adicionales por cada uno de esos amigos.
-Esta es nuestra forma de difundir una buena idea rápidamente.
-### Fase II
+La idea era iniciar la aplicación, hacer que el dinero fiduciario sea obsoleto y, eventualmente, hacer que la propia aplicación sea obsoleta para un mundo sin dinero. 
+Nuestro objetivo era evitar todas las fases de transición para eliminar el dinero de inmediato.
 
-Una vez que alcancemos 1.000.000 de usuarios o si encontramos suficientes personas para financiar los costos de desarrollo a través de crowdfunding,
-desarrollaremos características adicionales en la aplicación. Actualmente, estamos trabajando en una función de chat que te permite enviar mensajes seguros a tus amigos.
-Estos mensajes están cifrados de forma asimétrica, lo que significa que debes intercambiar tus claves públicas con anticipación para que la aplicación pueda cifrar tus mensajes.
-Esto garantiza que solo el destinatario pueda leer el mensaje.
-También planeamos incorporar funcionalidades que te permitan utilizar la aplicación como Facebook, sin censura, sin publicidad y sin que tus datos sean
-almacenados en algún servidor para su análisis y eventual mal uso para publicidad.
-Para esto, ya hemos planeado utilizar Storj.
-En Storj, cada usuario recibe 25 GB de espacio de almacenamiento gratuito. Los datos se distribuyen en varios servidores, lo que los hace descentralizados,
-cifrados y no accesibles ni eliminables públicamente.
-Ya utilizamos este espacio de almacenamiento para el envío de mensajes y también podemos utilizarlo para características similares a blogs, al estilo de Facebook. Cada usuario será responsable de sus propios datos,
-y solo los amigos y posiblemente sus amigos directos, lo cual será seleccionable, podrán acceder a esos datos. También podrás convertir amigos en &quot;enemigos íntimos&quot; que ya no podrán leer tus datos.
-La meta de 1.000.000 motivará a algunos desarrolladores a unirse, ya que verán que las personas aceptan LMC,
-lo cual motiva a los desarrolladores a crear extensiones en forma de complementos.
-### Fase III
+Esta decisión está arraigada en la espiritualidad.
 
-Después de alcanzar 10.000.000 de usuarios, la producción de LMC se reducirá a 1 litro por día.
-Esto garantiza que todos los usuarios reciban la misma cantidad diaria.
-En este punto, nos desconectaremos del servidor y la plataforma funcionará completamente de manera descentralizada.
-Actualmente, solo utilizamos el servidor para la función de &quot;recomendar a un amigo&quot;. Solo almacenamos información sobre quién invitó a quién. Algunos lo llaman marketing multinivel,
-aunque alguien ha mencionado que es un esquema de pirámide. En realidad, tienen razón, pero como nadie tiene que pagar por este sistema de publicidad, nadie resulta perjudicado."
+Para una explicación detallada, recomendamos leer nuestro libro, que está escrito en alemán y pronto podría ser traducido a tu idioma. 
+¡Como resultado, la aplicación ahora es inútil!
+
+El dinero, tal como lo conocemos, se ha utilizado para financiar armas, drogas, prostitución, crimen, guerras y actividades similares.
+
+Tal vez sea hora de dejar de usarlo. En su lugar, podemos expresar gratitud a través de gestos como apretones de manos, abrazos o simples palabras de agradecimiento. 
+Estos actos tienen más valor que cualquier dinero fiduciario.
+
+Debemos abordar esta transición con cuidado. Puede ser suficiente abrir nuestros corazones y nuestro tercer ojo para ver la verdad. 
+Cada uno de nosotros posee habilidades sociales que podemos aportar a este mundo. La comida está disponible en abundancia en árboles y arbustos sin costo alguno. 
+Tenemos suficiente energía proveniente del sol. Ya no necesitamos consumir alimentos derivados de animales. 
+Podemos construir casas pequeñas con nuestras propias manos sin depender del dinero en absoluto. Únete al movimiento UBUNTU.   
+&quot;Yo soy porque nosotros somos.&quot;"
                 }
             }
         }
@@ -234,7 +223,7 @@ aunque alguien ha mencionado que es un esquema de pirámide. En realidad, tienen
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;¿Quieres obtener la &lt;strong&gt;APP&lt;/strong&gt; para Android y comenzar a recolectar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DESCARGAR&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;¿Quieres obtener la &lt;strong&gt;APP&lt;/strong&gt; para Android y comenzar a recolectar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DESCARGAR&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "llamada"

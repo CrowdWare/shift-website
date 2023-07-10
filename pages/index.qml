@@ -193,37 +193,28 @@ Content {
 
                 Markdown {
                     text: "# First App for Android
-## The first app for Android is ready and will be released soon.
-### Phase I
+## The first app for Android is ready and has been released today.
 
-We have created a very simple app that allows you to collect new liquid and express gratitude.
-With the app, you collect 10,000 ml (10 liters) of LMC every day when you start the process in the app.
-You can also invite other people and collect 1,500 ml (1.5 liters) of LMC for each recommended user per day.
-If they also invite their friends, you earn an additional 300 ml of LMC per day and invitation.
-And if their friends join as well, you get an extra 60 ml for each of these friends.
-This is our way of spreading a good idea quickly.
-### Phase II
+The idea was to initiate the app, making fiat money obsolete, and eventually rendering the app itself obsolete for a world without money.  
+We aimed to bypass all transitional phases in order to eliminate money right away.
 
-Once we reach 1,000,000 users or if we find enough people to finance the development costs through crowdfunding,
-we will develop additional features in the app. Currently, we are working on a chat function that allows you to send secure messages to friends.
-These messages are asymmetrically encrypted, which means you need to exchange your public keys beforehand for the app to encrypt your messages.
-This ensures that only the recipient can read the message.
-We also plan to incorporate functionalities that allow you to use the app like Facebook, without censorship, without advertising, and without your data being
-stored somewhere on a server for analysis and eventually misused for advertising.
-For this purpose, we have already planned the use of Storj.
-On Storj, each user receives 25 GB of free storage space. The data is distributed across multiple servers, making it decentralized,
-encrypted, and not publicly accessible or deletable.
-We already use this storage space for sending messages and can also use the space for blog-like features similar to Facebook. Each user is then responsible for their own data,
-and only friends and possibly their direct friends, which will be selectable, can access these data. You will also be able to turn friends into &quot;frenemies&quot; who are no longer allowed to read your data.
-The milestone of 1,000,000 will motivate some developers to join because they see that people accept LMC,
-which motivates developers to create extensions in the form of plugins.
-### Phase III
+This decision is rooted in spirituality.
 
-After reaching 10,000,000 users, the production of LMC will be reduced to 1 liter per day.
-This ensures that all users receive the same amount per day.
-At this point, we will disconnect from the server, and the platform will be fully decentralized.
-Currently, we only use the server for the &quot;referring a friend&quot; feature. We only store information about who invited whom. Some call it multi-level marketing,
-although someone once said it was a pyramid scheme. They are actually correct, but since nobody has to pay for this advertising system, nobody gets harmed."
+For a detailed explanation, we recommend reading our book which is written in German language and might be translated to your language soon.  
+As a result, the app is now useless!
+
+Money, as we know it, has been utilized to fund weapons, drugs, prostitution, crime, wars, and similar activities.
+
+Perhaps it is time to stop using it. 
+Instead, we can express gratitude through gestures like handshakes, hugs, or simple words of thanks. 
+These acts hold more value than any fiat money.
+
+We should approach this transition with care. It may be sufficient to open our hearts and our third eye to perceive the truth.  
+Each of us possesses social skills that we can contribute to this world. Food is abundantly available from trees and bushes at no cost.  
+We have ample energy from the sun. We no longer need to consume food derived from animals.  
+We can construct small houses with our own hands, without relying on money at all.  
+Let us join the UBUNTU movement.  
+&quot;I am because we are.&quot;"
                 }
             }
         }
@@ -239,7 +230,7 @@ although someone once said it was a pyramid scheme. They are actually correct, b
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Do you want to get the &lt;strong&gt;APP&lt;/strong&gt; for Android and start to scoop liquid?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Do you want to get the &lt;strong&gt;APP&lt;/strong&gt; for Android and start to scoop liquid?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;
 "

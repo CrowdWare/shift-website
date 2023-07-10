@@ -193,37 +193,26 @@ dinamikon de interreta interago!
 
                 Markdown {
                     text: "# Unua aplikaĵo por Android
-## La unua aplikaĵo por Android estas preta kaj baldaŭ estos publikigita.
-### Fazo I
+## La unua aplikaĵo por Androido estas preta kaj estis lanĉita hodiaŭ.
 
-Ni kreis tre simplan aplikaĵon, per kiu vi povas kolekti novan likvon kaj montri dankemon.
-Per la aplikaĵo, vi kolektas po 10.000 ml (10 litroj) da LMC ĉiutage, kiam vi startas la proceson en la aplikaĵo.
-Vi ankaŭ povas inviti aliajn homojn kaj kolekti po 1.500 ml (1,5 litroj) da LMC por ĉiu rekomendita uzanto ĉiutage.
-Se ili ankaŭ invitas siajn amikojn, vi gajnas aldona 300 ml da LMC por ĉiu tago kaj invito.
-Kaj se iliaj amikoj ankaŭ aliĝas, vi ricevas aldonan 60 ml por ĉiu el tiuj amikoj.
-Tio estas nia maniero rapide disvastigi bonan ideon.
-### Fazo II
+La ideo estis komenci la aplikaĵon, farante malaktuala la fiatmonon, kaj fine fari mem la aplikaĵon malaktuala por mondo sen mono.
+Ni celis trairi ĉiujn transirajn fazojn por tuj elimini la monon.
 
-Post atingi 1.000.000 uzantojn aŭ se ni trovas sufiĉe da homoj financi la evolu-kostojn per monkolekto,
-ni evoluigos aldonajn funkciojn en la aplikaĵo. Nuntempe, ni laboras pri babilejo funkcio, per kiu vi povas sendi sekurajn mesaĝojn al amikoj.
-Tiaj mesaĝoj estas asimetrie ĉifritaj, signifas, ke vi devas antaŭe interŝanĝi viajn publikajn ŝlosilojn por la aplikaĵo povu ĉifri viajn mesaĝojn.
-Tio certigas, ke nur la ricevanto povas legi la mesaĝon.
-Ni ankaŭ planas aldoni funkciojn, per kiuj vi povos uzi la aplikaĵon kiel Facebook, sen cenzuro, sen reklamoj, kaj sen viaj datumoj estus
-konservataj ie sur servilo por analizo kaj poste misuzataj por reklamoj.
-Por tio, ni jam planis uzi Storj-on.
-Per Storj, ĉiu uzanto ricevas 25 GB de senpaga memorospaco. La datumoj estas disigitaj sur pluraj serviloj, kio igas ilin discentraj,
-ĉifritaj, kaj ne publike alireblaj aŭ forigeblaj.
-Ni jam uzas tiun memorospacon por sendado de mesaĝoj kaj ankaŭ povas uzi la spacon por funkcioj simile al blogoj, simile al Facebook. Ĉiu uzanto tiam estas respondeca pri siaj propraj datumoj,
-kaj nur amikoj kaj eble iliaj rektaj amikoj, kio elekteblas, povas aliri tiujn datumojn. Vi ankaŭ povos fari amikojn fariĝi &quot;malamikoj&quot;, kiuj ne plu rajtas legi viajn datumojn.
-La atingiĝo de 1.000.000 estos kialo por iuj programistoj aliĝi, ĉar ili vidos, ke homoj akceptas LMC,
-kio motivas programistojn krei etendajnĉion formo de kromaĵoj.
-### Fazo III
+Tiu decido baziĝas en spiritismo.
 
-Post atingi 10.000.000 uzantojn, la produktado de LMC estos reduktita al 1 litro ĉiutage.
-Tio certigas, ke ĉiuj uzantoj ricevas la saman kvanton ĉiutage.
-Je tiu punkto, ni malkonektiĝos de la servilo, kaj la platformo estos tute discentrigitaj.
-Nuntempe, ni uzas la servilon nur por la funkcio &quot;rekomendi amikon&quot;. Ni nur konservas informojn pri kiu invitis kiu. Iuj nomas tion multeniva merkatado,
-kvankam iu iam diris, ke ĝi estas piramid-sistemo. Ili efektive pravas, sed ĉar neniu devas pagi por ĉi tiu reklamsistemo, neniu estas damaĝita."
+Por detala klarigo, ni rekomendas legi nian libron, kiu estas skribita en la germana lingvo kaj baldaŭ eble estos tradukita en vian lingvon. 
+Kiel rezulto, la aplikaĵo nun estas senutila!
+
+Mono, kiel ni konas ĝin, estis uzita por financi armilojn, drogojn, prostitucion, krimon, militojn kaj similajn agadojn.
+
+Eble estas tempo ĉesi uzi ĝin. Anstataŭe, ni povas esprimi dankemon per gestoj kiel manoŝutadoj, karesoj aŭ simplaj vortoj de danko. 
+Tiaj agoj havas pli da valoro ol ajna fiatmono.
+
+Ni devas alproksimiĝi al tiu ĉi transiro zorgeme. Povas esti sufiĉe malfermi niajn korojn kaj la trian okulon por percepti la veron. 
+Ĉiu el ni posedas sociajn kapablojn, kiujn ni povas kontribui al ĉi tiu mondo. Manĝaĵo abunde troviĝas sur arboj kaj arbustoj senpage. 
+Ni havas sufiĉe da energio de la suno. Ni ne plu bezonas manĝi manĝaĵon derivitan de bestoj. 
+Ni povas konstrui malgrandajn domojn per niaj propraj manoj, sen dependi de mono tute. Aliĝu al la movado UBUNTU. 
+&quot;Mi estas, ĉar ni estas.&quot;"
                 }
             }
         }
@@ -239,7 +228,7 @@ kvankam iu iam diris, ke ĝi estas piramid-sistemo. Ili efektive pravas, sed ĉa
                 Text {
                     text: "&lt;!-- VOKO --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /VOKO --&gt;"
                     adminlabel: "Voko"

@@ -190,41 +190,32 @@ das Beitrag und Teilnahme schätzt. Mit Shift ändern wir gemeinsam die Dynamik 
 
                 Markdown {
                     text: "# Erste App für Android
-## Die erste App für Android ist fertig und wird in Kürze veröffentlicht.
-### Phase I
-Wir haben eine sehr einfache App erstellt, mit der du neue Flüssigkeit schöpfen und auch Dankbarkeit zeigen kannst.
-Mit der App schöpfst du jeden Tag, an dem du den Prozess in der App startest, 10.000 ml (10 l) LMC.
-Du kannst auch andere Leute einladen und für jeden empfohlenen Benutzer pro Tag 1.500 ml (1.5l) LMC schöpfen.
-Sollte dieser dann auch seine Freunde einladen, verdienst du daran pro Tag und Einladung 300 ml LMC dazu.  
-Und wenn deren Freunde auch mitmachen, dann bekommst du für jeden diese Freunde nochmal 60 ml dazu.  
-Das ist unser Weg, eine gute Idee schnell zu verbreiten.
+## Die erste App für Android ist fertig und wurde veröffentlicht.
 
-### Phase II
-Wenn wir 1.000.000 Benutzer erreichen oder wenn wir genug Leute finden, die die Entwicklungskosten über Crowdfunding finanzieren, 
-werden wir weitere Funktionen in der App entwickeln. Derzeit arbeiten wir an einer Chat-Funktion, mit der du sicher Nachrichten zu Freunden senden kannst. 
-Diese Nachrichten werden asymetrisch verschlüsselt, das bedeutet, das ihr vorher eure öffentlichen Schlüssel austauschen müsst, mit denen die App eure Nachrichten verschlüsselt.
-Das heißt, das nur der Empfänger die Nachricht lesen kann.
-Auch ist geplant, das wir Funktionalitäten einbauen, um die App wie Facebook nutzen zu können, ohne Zensur, ohne Werbung und ohne das eure Daten irgendwo auf einem Server 
-landen und für Auswertungen und schliesslich Werbung missbraucht werden. 
-Vorbereitend haben wir hierfür bereits den Einsatz von Storj vorgesehen.  
-Auf Storj bekommt jeder Nutzer 25 GB an freiem Speicherplatz kostenlos zur Verfügung. Die Daten werden auf viele verschiedene Server aufgeteilt, sind also dezentral, 
-verschlüsselt und nicht öffentlich verfügbar oder löschbar.  
-Wir nutzen diesen Speicherplatz bereist für das versenden von Nachrichten und können den Platz dann auch für Blogs a la Facebook nutzen. Jeder Nutzer ist dann für seine Daten
-selbst verantwortlich. Zugreifen auf diese Daten dürfen nur Freunde und eventuell deren direkte Freunde, was auswählbar sein wird. Du wirst auch Freunde zu Frenemies machen 
-können, die dann keine Daten mehr lesen dürfen.
-Die Marke 1.000.000 wird einige Entwickler motivieren, mitzumachen, weil sie sehen, dass die Leute LMC akzeptieren
-und das motiviert die Entwickler Erweiterungen in Form von Plugins zu erstellen.
+Die Idee war, die App zu initiieren, um Fiat-Geld überflüssig zu machen und die App selbst dann nach einigen Jahren auch überflüssig zu machen, für eine Welt ohne Geld.
 
+Wir haben alle Phasen übersprungen, um uns JETZT von Geld zu befreien.
 
-### Phase III
+Dies ist eine spirituelle Entscheidung.
 
-Nach Erreichen der Menge von 10.000.000 Benutzern wird die Erzeugung von LMC auf 1 Liter pro Tag reduziert.
-Damit erhalten alle Benutzer den gleichen Betrag pro Tag.
-An diesem Punkt werden wir die Verbindung zum Server trennen und die Plattform wird vollständig dezentral ausgeführt.
-Zurzeit nutzen wir den Server nur für die &quot;Ich werbe einen Freund&quot; Sache. Dort speichern wir lediglich, wer wen eingeladen hat. Man nennt das auch Multi-Level-Marketing, 
-obwohl auch schon mal jemand gemeint hat, es wäre ein Schnellball-System. Er hat ja eigentlich auch Recht, aber da bei uns niemand für dieses System der Werbung Geld
-bezahlen muss kommt auch niemand zu Schaden.
-"
+Für eine ausführliche Erklärung solltest Du unser Buch &quot;Der Wandel des Geldes - Die Zukunft des Zahlungsmittels und ökonomische Transformation&quot; lesen. 
+Daher ist die App jetzt nutzlos!
+
+Geld, wie wir es kennen, wurde verwendet, um Waffen, Drogen, Prostitution, Verbrechen, Kriege und Ähnliches zu bezahlen.
+
+Vielleicht sollten wir es nicht mehr verwenden. 
+Wenn wir Dankbarkeit zeigen wollen, was ist mit Händedrücken, Umarmungen oder einfachem &quot;Danke&quot; sagen? 
+Diese Gesten sind mehr wert als jedes Fiat-Geld.
+
+Wir sollten diesen Übergang sorgfältig angehen. 
+Es könnte ausreichen, unsere Herzen und unser drittes Auge zu öffnen, um die Wahrheit zu erkennen. 
+Wir alle haben soziale Fähigkeiten, die wir in diese Welt einbringen können. 
+Lebensmittel wachsen kostenlos an Bäumen und Büschen. 
+Wir haben genug Energie von unserer Sonne. 
+Wir müssen keine Nahrung mehr essen, die Tote Tiere enthält. 
+Wir können kleine Häuser mit unseren eigenen Händen bauen, ohne überhaupt Geld zu benötigen. 
+Werde Teil der UBUNTU-Bewegung.   
+&quot;Ich bin, weil wir sind&quot;."
                 }
             }
         }
@@ -240,7 +231,7 @@ bezahlen muss kommt auch niemand zu Schaden.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;
 

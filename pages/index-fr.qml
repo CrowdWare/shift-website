@@ -189,37 +189,31 @@ L&#x27;un des avantages significatifs du LMC est son immunité face aux contrain
 
                 Markdown {
                     text: "# Première application pour Android
-## La première application pour Android est prête et sera bientôt publiée.
-### Phase I
+## La première application pour Android est prête et a été lancée aujourd&#x27;hui.
+L&#x27;idée était d&#x27;initier l&#x27;application, rendant l&#x27;argent fiduciaire obsolète, et éventuellement rendre l&#x27;application elle-même obsolète pour un monde sans argent. 
+Nous avons cherché à contourner toutes les phases de transition afin d&#x27;éliminer l&#x27;argent immédiatement.
 
-Nous avons créé une application très simple qui vous permet de collecter de nouveaux liquides et d&#x27;exprimer votre gratitude.
-Avec l&#x27;application, vous collectez 10 000 ml (10 litres) de LMC chaque jour lorsque vous lancez le processus dans l&#x27;application.
-Vous pouvez également inviter d&#x27;autres personnes et collecter 1 500 ml (1,5 litre) de LMC pour chaque utilisateur recommandé par jour.
-S&#x27;ils invitent également leurs amis, vous gagnez 300 ml supplémentaires de LMC par jour et par invitation.
-Et si leurs amis se joignent également, vous obtenez 60 ml supplémentaires pour chacun de ces amis.
-C&#x27;est notre façon de diffuser rapidement une bonne idée.
-### Phase II
+Cette décision est ancrée dans la spiritualité.
 
-Une fois que nous atteignons 1 000 000 d&#x27;utilisateurs ou si nous trouvons suffisamment de personnes pour financer les coûts de développement via le financement participatif,
-nous développerons des fonctionnalités supplémentaires dans l&#x27;application. Actuellement, nous travaillons sur une fonction de chat qui vous permet d&#x27;envoyer des messages sécurisés à vos amis.
-Ces messages sont cryptés de manière asymétrique, ce qui signifie que vous devez échanger vos clés publiques au préalable pour que l&#x27;application puisse chiffrer vos messages.
-Cela garantit que seul le destinataire peut lire le message.
-Nous prévoyons également d&#x27;intégrer des fonctionnalités qui vous permettront d&#x27;utiliser l&#x27;application comme Facebook, sans censure, sans publicité et sans que vos données soient
-stockées quelque part sur un serveur pour des analyses et éventuellement utilisées à des fins publicitaires.
-À cette fin, nous avons déjà prévu l&#x27;utilisation de Storj.
-Sur Storj, chaque utilisateur dispose de 25 Go d&#x27;espace de stockage gratuit. Les données sont réparties sur plusieurs serveurs, ce qui les rend décentralisées,
-chiffrées et non accessibles ou supprimables publiquement.
-Nous utilisons déjà cet espace de stockage pour l&#x27;envoi de messages et nous pouvons également l&#x27;utiliser pour des fonctionnalités similaires à un blog, semblables à Facebook. Chaque utilisateur est alors responsable de ses propres données,
-et seuls les amis et éventuellement leurs amis directs, qui seront sélectionnables, peuvent accéder à ces données. Vous pourrez également transformer des amis en &quot;ennemis&quot; qui ne seront plus autorisés à lire vos données.
-Le cap des 1 000 000 motivera certains développeurs à se joindre à nous car ils constatent que les gens acceptent LMC,
-ce qui incite les développeurs à créer des extensions sous forme de plugins.
-### Phase III
+Pour une explication détaillée, nous vous recommandons de lire notre livre qui est écrit en allemand et pourrait bientôt être traduit dans votre langue. 
+En conséquence, l&#x27;application est maintenant inutile !
 
-Après avoir atteint 10 000 000 d&#x27;utilisateurs, la production de LMC sera réduite à 1 litre par jour.
-Cela garantit que tous les utilisateurs reçoivent la même quantité par jour.
-À ce stade, nous nous déconnecterons du serveur et la plateforme sera entièrement décentralisée.
-Actuellement, nous utilisons uniquement le serveur pour la fonctionnalité &quot;référer un ami&quot;. Nous stockons uniquement les informations sur qui a invité qui. Certains appellent cela du marketing multi-niveaux,
-bien que certains aient déjà dit que c&#x27;était un système pyramidal. Ils ont raison, mais comme personne n&#x27;a à payer pour ce système publicitaire, personne n&#x27;est lésé."
+L&#x27;argent, tel que nous le connaissons, a été utilisé pour financer des armes, des drogues, la prostitution, le crime, les guerres et des activités similaires.
+
+Il est peut-être temps de cesser de l&#x27;utiliser. 
+Au lieu de cela, nous pouvons exprimer notre gratitude à travers des gestes tels que des poignées de main, des étreintes ou de simples mots de remerciement. 
+Ces actes ont plus de valeur que n&#x27;importe quelle monnaie fiduciaire.
+
+Nous devons aborder cette transition avec précaution. 
+Il pourrait suffire d&#x27;ouvrir nos cœurs et notre troisième œil pour percevoir la vérité. 
+Chacun de nous possède des compétences sociales que nous pouvons apporter à ce monde. 
+La nourriture est abondante dans les arbres et les buissons, sans frais. 
+Nous disposons d&#x27;une énergie abondante provenant du soleil. 
+Nous n&#x27;avons plus besoin de consommer de la nourriture d&#x27;origine animale. 
+Nous pouvons construire de petites maisons de nos propres mains, sans compter sur l&#x27;argent du tout. 
+Rejoignons le mouvement UBUNTU.  
+&quot;Je suis parce que nous sommes.&quot;
+"
                 }
             }
         }
@@ -235,7 +229,7 @@ bien que certains aient déjà dit que c&#x27;était un système pyramidal. Ils 
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Voulez-vous obtenir l&#x27;application pour Android et commencer à collecter du liquide ? &lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.2.48/shift-release-1.2.48.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;TÉLÉCHARGER&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Voulez-vous obtenir l&#x27;application pour Android et commencer à collecter du liquide ? &lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;TÉLÉCHARGER&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;"
                     adminlabel: "callout"
