@@ -228,7 +228,7 @@ Ni povas konstrui malgrandajn domojn per niaj propraj manoj, sen dependi de mono
                 Text {
                     text: "&lt;!-- VOKO --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Ĉu vi volas elŝuti la &lt;strong&gt;APLIKAĴON&lt;/strong&gt; por Android kaj komenci kolekti likvon?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;ELŜUTI&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /VOKO --&gt;"
                     adminlabel: "Voko"

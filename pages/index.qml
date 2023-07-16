@@ -230,7 +230,7 @@ Let us join the UBUNTU movement.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Do you want to get the &lt;strong&gt;APP&lt;/strong&gt; for Android and start to scoop liquid?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.Beta.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Do you want to get the &lt;strong&gt;APP&lt;/strong&gt; for Android and start to scoop liquid?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;
 "
