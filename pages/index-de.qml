@@ -198,8 +198,10 @@ Wir haben alle Phasen übersprungen, um uns JETZT von Geld zu befreien.
 
 Dies ist eine spirituelle Entscheidung.
 
-Für eine ausführliche Erklärung solltest Du unser Buch &quot;Der Wandel des Geldes - Die Zukunft des Zahlungsmittels und ökonomische Transformation&quot; lesen. 
-Daher ist die App jetzt nutzlos!
+Für eine ausführliche Erklärung solltest Du unser Buch [&quot;Der Wandel des Geldes - Die Zukunft des Zahlungsmittels und ökonomische Transformation&quot;](https://artoftouch.crowdware.at/book.html) lesen. 
+Daher ist die App jetzt nutzlos!  
+Naja, nicht ganz ;-)
+Ich erkläre es im Buch...
 
 Geld, wie wir es kennen, wurde verwendet, um Waffen, Drogen, Prostitution, Verbrechen, Kriege und Ähnliches zu bezahlen.
 
@@ -231,7 +233,7 @@ Werde Teil der UBUNTU-Bewegung.
                 Text {
                     text: "&lt;!-- CALLOUT --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
+	&lt;h3&gt;Willst Du die &lt;strong&gt;APP&lt;/strong&gt; für Android haben und anfangen LMC zu schöpfen?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3.9/shift-release-1.3.9.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;DOWNLOAD&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /CALLOUT --&gt;
 

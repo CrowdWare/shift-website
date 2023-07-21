@@ -218,7 +218,7 @@ Podemos construir casas pequenas com nossas próprias mãos, sem depender de din
                 Text {
                     text: "&lt;!-- DESTAQUE --&gt;
 &lt;div class=&quot;bs-callout text-center styleBackground&quot;&gt;
-&lt;h3&gt;Você quer obter o &lt;strong&gt;APLICATIVO&lt;/strong&gt; para Android e começar a coletar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3/shift-release-1.3.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;BAIXAR&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;Você quer obter o &lt;strong&gt;APLICATIVO&lt;/strong&gt; para Android e começar a coletar líquido?&lt;a href=&quot;https://github.com/CrowdWare/shift/releases/download/v1.3.9/shift-release-1.3.9.apk&quot; target=&quot;_self&quot; class=&quot;btn btn-primary btn-lg&quot;&gt;BAIXAR&lt;/a&gt;&lt;/h3&gt;
 &lt;/div&gt;
 &lt;!-- /DESTAQUE --&gt;"
                     adminlabel: "Destaque"
