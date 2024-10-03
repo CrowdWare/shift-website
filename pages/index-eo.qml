@@ -56,7 +56,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -66,12 +66,11 @@ Content {
 &lt;p&gt;Ni navigas tra defiitaj tempoj. Kio se ni repensus la manieron, laŭ kiu ni valoras kaj rekompencas unu la alian?&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Baza Reddito"
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -80,40 +79,7 @@ Content {
 	&lt;h4&gt;&lt;strong&gt;Likva&lt;/strong&gt;&lt;/h4&gt;
 	&lt;p&gt;Ni kreas virtualan likvon nomitan LMC, kiu povas esti uzata por montri dankemon.&lt;/p&gt;
 &lt;/div&gt;
-</div>"
-                    adminlabel: "Likva"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Mikro-Blogo&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;Sen cenzuro. Anonima. Sen reklamoj. Sen registro. Sen misuzado de datumoj.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "M
-
-ikro-Blogo"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Sekura Babilejo&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;Sekura babilejo ankaŭ estos havebla. Ni ne uzas servilojn! Ni estas decentraligitaj.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "Sekura Babilejo"
+&lt;/div&gt;"
                 }
             }
         }
@@ -307,7 +273,7 @@ Alia ebleco estos trovi sponsorojn por financi la kostojn de disvolvado.
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Here is a short tutorial video&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -329,7 +295,7 @@ src=&quot;https://link.storjshare.io/s/jwjrc4ri7qrsalpy5lwulwbxo37q/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                 }
             }
         }

@@ -58,7 +58,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -68,12 +68,11 @@ Content {
 	&lt;p&gt;Wir bewegen uns durch herausfordernde Zeiten. Was wäre, wenn wir die Art und Weise, wie wir uns gegenseitig wertschätzen und belohnen, neu überdenken?&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Grundeinkommen"
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -83,37 +82,6 @@ Content {
 		&lt;p&gt;Wir erstellen eine virtuelle Flüssigkeit namens LMC, mit der Dankbarkeit gezeigt werden kann.&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Dankbarkeit"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Mikro-Blogging&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Keine Zensur. Anonym. Keine Werbung. Keine Registration. Kein Datenmissbrauch.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Mikro-Blogging"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Sicheres Chatten&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Sicheres Chatten ist ebenfalls verfügbar. Wir benutzen keine Server! Wir sind dezentral.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Sicheres Chatten"
                 }
             }
         }
@@ -323,7 +291,7 @@ Werde Teil der UBUNTU-Bewegung.
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Hier ist ein kurzes Video Tuturial&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -344,7 +312,7 @@ src=&quot;https://link.storjshare.io/s/jwqcnkcqajwehmwkzqxbpx62364a/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                     adminlabel: "Video"
                 }
             }

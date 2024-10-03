@@ -56,7 +56,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -66,12 +66,11 @@ Content {
 &lt;p&gt;Estamos navegando por tempos desafiadores. E se repensarmos a maneira como valorizamos e recompensamos uns aos outros?&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Rendimento Básico"
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -80,38 +79,7 @@ Content {
 	&lt;h4&gt;&lt;strong&gt;Líquido&lt;/strong&gt;&lt;/h4&gt;
 	&lt;p&gt;Estamos criando um líquido virtual chamado LMC, que pode ser usado para mostrar gratidão.&lt;/p&gt;
 &lt;/div&gt;
-</div>"
-                    adminlabel: "Líquido"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Microblogging&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;Sem censura. Anônimo. Sem anúncios. Sem registro. Sem uso indevido de dados.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "Microblogging"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Chat Seguro&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;Também será disponibilizado um chat seguro. Não usamos servidores! Somos descentralizados.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "Chat Seguro"
+&lt;/div&gt;"
                 }
             }
         }
@@ -298,7 +266,7 @@ Outra possibilidade é encontrarmos patrocinadores para financiar os custos de d
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Here is a short tutorial video&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -320,7 +288,7 @@ src=&quot;https://link.storjshare.io/s/jwjrc4ri7qrsalpy5lwulwbxo37q/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                 }
             }
         }

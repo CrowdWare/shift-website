@@ -59,7 +59,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -69,12 +69,11 @@ Content {
 		&lt;p&gt;We are navigating through challenging times. What if we rethink the way we value and reward each other?&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Value Exchange "
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -84,37 +83,6 @@ Content {
 		&lt;p&gt;We are creating a virtual liquid called LMC which can be used to show gratitude.&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Liquid"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Micro-Blogging&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;No censorship. Anonymous. No ads. No registration. No data mis-usage.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Micro-Blogging"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Secure Chat&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Secure chatting will also be available. We don&#x27;t use servers! We are decentral.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Secure Chat"
                 }
             }
         }
@@ -312,7 +280,7 @@ So this tranfser data can only be decrypted with the original app.&lt;/br&gt;&lt
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Here is a short tutorial video&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -334,7 +302,7 @@ src=&quot;https://link.storjshare.io/s/jwjrc4ri7qrsalpy5lwulwbxo37q/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                     adminlabel: "Video"
                 }
             }

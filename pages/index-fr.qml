@@ -59,7 +59,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -69,12 +69,11 @@ Content {
 &lt;p&gt;Nous naviguons à travers des temps difficiles. Et si nous repensions la façon dont nous valorisons et récompensons les uns les autres?&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Revenu de base"
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -84,38 +83,6 @@ Content {
 		&lt;p&gt;Nous créons un liquide virtuel appelé LMC qui peut être utilisé pour montrer de la gratitude.&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Liquid"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Micro-blogging&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Pas de censure. Anonyme. Pas de publicité. Pas d'inscription. Pas d'utilisation abusive des données.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Micro-blogging
-"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Chat sécurisé&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;La messagerie sécurisée sera également disponible. Nous n'utilisons pas de serveurs ! Nous sommes décentralisés.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "Chat sécurisé"
                 }
             }
         }
@@ -308,7 +275,7 @@ Une autre possibilité serait de trouver des sponsors pour financer les coûts d
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Here is a short tutorial video&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -330,7 +297,7 @@ src=&quot;https://link.storjshare.io/s/jwjrc4ri7qrsalpy5lwulwbxo37q/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                 }
             }
         }

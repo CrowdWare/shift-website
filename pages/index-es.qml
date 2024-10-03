@@ -59,7 +59,7 @@ Content {
         Row {
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
@@ -69,52 +69,20 @@ Content {
 &lt;p&gt;Estamos navegando a través de tiempos desafiantes. ¿Y si reconsideramos la forma en que valoramos y recompensamos a los demás?&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Ingreso Básico"
                 }
             }
 
             Column {
-                span: 3
+                span: 6
 
                 Text {
                     text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
 	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-lightbulb-o&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Líquido&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Estamos creando un líquido virtual llamado LMC que se puede usar para mostrar gratitud.&lt;/p&gt;
+		&lt;i class=&quot;fa fa-bolt&quot;&gt;&lt;/i&gt;
+		&lt;h4&gt;&lt;strong&gt;Intercambio de Valor&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Estamos navegando a través de tiempos desafiantes. ¿Y si reconsideramos la forma en que valoramos y recompensamos a los demás?&lt;/p&gt;
 	&lt;/div&gt;
 &lt;/div&gt;"
-                    adminlabel: "Líquido"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-	&lt;div class=&quot;box-content&quot;&gt;
-		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;
-		&lt;h4&gt;&lt;strong&gt;Microblogging&lt;/strong&gt;&lt;/h4&gt;
-		&lt;p&gt;Sin censura. Anónimo. Sin publicidad. Sin registro. Sin mal uso de datos.&lt;/p&gt;
-	&lt;/div&gt;
-&lt;/div&gt;"
-                    adminlabel: "Microblogging"
-                }
-            }
-
-            Column {
-                span: 3
-
-                Text {
-                    text: "&lt;div class=&quot;featured-box nobg border-only&quot;&gt;
-&lt;div class=&quot;box-content&quot;&gt;
-	&lt;i class=&quot;fa fa-flag-checkered&quot;&gt;&lt;/i&gt;
-	&lt;h4&gt;&lt;strong&gt;Chat Seguro&lt;/strong&gt;&lt;/h4&gt;
-	&lt;p&gt;También estará disponible el chat seguro. ¡No utilizamos servidores! Somos descentralizados.&lt;/p&gt;
-&lt;/div&gt;
-</div>"
-                    adminlabel: "Chat Seguro"
                 }
             }
         }
@@ -302,7 +270,7 @@ rá una masa crítica que aceptará LMC como intercambio de energía. También e
                 span: 12
 
                 Text {
-                    text: "&lt;p&gt;&lt;/p&gt;
+                    text: "&lt;!--p&gt;&lt;/p&gt;
 &lt;h3&gt;Here is a short tutorial video&lt;/h3&gt;
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;video class=&quot;embed-responsive embed-responsive-4by3&quot; id=&quot;videoTag&quot; controls=&quot;&quot; style=&quot;display: block;&quot; 
@@ -324,7 +292,7 @@ src=&quot;https://link.storjshare.io/s/jwjrc4ri7qrsalpy5lwulwbxo37q/shift/videos
   width: 100%;
   height: 100%;
 }
-&lt;/style&gt;"
+&lt;/style--&gt;"
                 }
             }
         }
